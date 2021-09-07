@@ -1,0 +1,11 @@
+Package: postUsearch
+Type: Package
+Title: Post ananlysis of the results of Usearch
+Version: 0.0.1
+Author: Zhonghui Gai
+Maintainer: ZhonghuiGai <zhgai@aliyun.com>
+Description: Further Analysis Package for Usearch Analysis Data
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1

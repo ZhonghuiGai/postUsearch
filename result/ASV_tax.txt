@@ -1,0 +1,573 @@
+	Domain	Phylum	Class	Order	Family	Genus	Species
+ASV_4	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_1	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_2	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Parabacteroides	
+ASV_3	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_5	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae		
+ASV_6	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Faecalibaculum	
+ASV_8	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae		
+ASV_7	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_9	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_12	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+ASV_10	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_11	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Sutterellaceae	Parasutterella	
+ASV_13	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	
+ASV_15	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_14	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae		
+ASV_16	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_18	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae		
+ASV_17	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_20	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_19	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_21	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+ASV_22	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_24	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae		
+ASV_23	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_25	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_26	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	
+ASV_27	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_28	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Schaedlerella	
+ASV_30	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae		
+ASV_29	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae		
+ASV_31	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Clostridium_IV	
+ASV_32	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_33	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae		
+ASV_34	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_35	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_36	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae		
+ASV_38	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_37	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Enterocloster	
+ASV_39	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus	
+ASV_41	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_40	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_42	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_43	Bacteria	Verrucomicrobia	Verrucomicrobiae	Verrucomicrobiales	Akkermansiaceae	Akkermansia	
+ASV_44	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_45	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Sutterellaceae	Parasutterella	
+ASV_46	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_47	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_48	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Flintibacter	
+ASV_49	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_50	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus	
+ASV_51	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+ASV_52	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_54	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae		
+ASV_53	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Enterocloster	
+ASV_55	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_56	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_58	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_57	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	
+ASV_59	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_60	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_62	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Parabacteroides	
+ASV_61	Bacteria	Deferribacteres	Deferribacteres	Deferribacterales	Deferribacteraceae	Mucispirillum	
+ASV_63	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae		
+ASV_64	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_65	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_67	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_66	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia/Shigella	
+ASV_68	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Clostridium_IV	
+ASV_70	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_69	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_71	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	
+ASV_72	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae_1	Clostridium_sensu_stricto	
+ASV_73	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_74	Bacteria	Firmicutes	Clostridia				
+ASV_75	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_77	Bacteria	Firmicutes					
+ASV_76	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_78	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_79	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae		
+ASV_81	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Parabacteroides	
+ASV_80	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_82	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Parabacteroides	
+ASV_83	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_84	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillibacter	
+ASV_85	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae		
+ASV_86	Bacteria	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Eubacterium	
+ASV_87	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_89	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_88	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_90	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_91	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_93	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae		
+ASV_92	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_94	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_95	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_96	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Parabacteroides	
+ASV_97	Bacteria	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Eubacterium	
+ASV_98	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_100	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_99	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_101	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_102	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_103	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Parabacteroides	
+ASV_104	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_105	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_106	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Clostridium_IV	
+ASV_107	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_108	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_109	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_110	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae		
+ASV_111	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_112	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Clostridium_XVIII	
+ASV_114	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_113	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_115	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Flintibacter	
+ASV_116	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiales_Incertae_Sedis_XIII	Ihubacter	
+ASV_117	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_118	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_119	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_120	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_121	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_122	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_123	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_124	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_125	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiracea_incertae_sedis	
+ASV_126	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_127	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_129	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_128	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Limosilactobacillus	
+ASV_130	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Frisingicoccus	
+ASV_131	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_132	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Acutalibacter	
+ASV_134	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_136	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_135	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Clostridium_IV	
+ASV_133	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	
+ASV_137	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_140	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_139	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_138	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_141	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_142	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales			
+ASV_143	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Enterocloster	
+ASV_144	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_145	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruthenibacterium	
+ASV_146	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_148	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_147	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_149	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_150	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_152	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_151	Bacteria	Tenericutes	Mollicutes	Anaeroplasmatales	Anaeroplasmataceae	Anaeroplasma	
+ASV_153	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_154	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_155	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Parabacteroides	
+ASV_156	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_157	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_160	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae		
+ASV_159	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_158	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Schaedlerella	
+ASV_161	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_162	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_164	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_163	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Flintibacter	
+ASV_165	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae		
+ASV_167	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_166	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_168	Bacteria						
+ASV_169	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_170	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_173	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_171	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_172	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_175	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_174	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_176	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_177	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_179	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_178	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_180	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_181	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_182	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales			
+ASV_184	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_185	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae		
+ASV_183	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Intestinimonas	
+ASV_186	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_187	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_188	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+ASV_189	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_190	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_192	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_191	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_193	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_195	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae		
+ASV_194	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_197	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_196	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae		
+ASV_200	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales			
+ASV_198	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_201	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_199	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_203	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_202	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_204	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae		
+ASV_205	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_207	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_206	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus	
+ASV_208	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_209	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_211	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Parabacteroides	
+ASV_210	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_212	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_213	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia/Shigella	
+ASV_215	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_214	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_216	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_217	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_218	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_219	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_220	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_221	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_222	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_223	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_224	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_225	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_226	Bacteria	Actinobacteria	Coriobacteriia	Eggerthellales	Eggerthellaceae	Adlercreutzia	
+ASV_227	Bacteria	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Eubacterium	
+ASV_228	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_229	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_230	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_231	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_233	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_232	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillibacter	
+ASV_234	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_236	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_235	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_237	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_238	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_239	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_240	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Romboutsia	
+ASV_241	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_242	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales			
+ASV_243	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae		
+ASV_245	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_244	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_246	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_247	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_249	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_248	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_250	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_251	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+ASV_252	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_253	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_254	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_256	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_255	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_257	Bacteria						
+ASV_258	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_259	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_260	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_261	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_262	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Flintibacter	
+ASV_263	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_264	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_265	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Parabacteroides	
+ASV_266	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Romboutsia	
+ASV_267	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Parabacteroides	
+ASV_268	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_269	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_270	Bacteria	Firmicutes	Clostridia				
+ASV_271	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_272	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_273	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Acutalibacter	
+ASV_274	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_275	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_276	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_277	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae		
+ASV_278	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_279	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_280	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_281	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_282	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_283	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_284	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_285	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Harryflintia	
+ASV_286	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Parabacteroides	
+ASV_287	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales			
+ASV_288	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_290	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_289	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_291	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_292	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_293	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_294	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_295	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_296	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Parabacteroides	
+ASV_297	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_298	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_299	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_300	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_301	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Intestinimonas	
+ASV_302	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiales_Incertae_Sedis_XIII		
+ASV_303	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Sutterellaceae	Parasutterella	
+ASV_304	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_306	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae		
+ASV_305	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_307	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Flintibacter	
+ASV_308	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Neglecta	
+ASV_309	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Flintibacter	
+ASV_310	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae_1	Clostridium_sensu_stricto	
+ASV_311	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Intestinimonas	
+ASV_312	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Flintibacter	
+ASV_313	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_314	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_315	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_316	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_317	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Parabacteroides	
+ASV_318	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_319	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales			
+ASV_320	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_321	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_322	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_323	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_324	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_326	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_325	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_327	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_328	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_329	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae		
+ASV_330	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_331	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Flintibacter	
+ASV_333	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae		
+ASV_332	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_334	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_335	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_336	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_337	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_338	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Anaerotignum	
+ASV_340	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_339	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_341	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_342	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae		
+ASV_343	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Parabacteroides	
+ASV_344	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Amedibacillus	
+ASV_345	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Faecalibaculum	
+ASV_346	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_348	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae		
+ASV_347	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_349	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_350	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_351	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_352	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_353	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_354	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+ASV_356	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Schaedlerella	
+ASV_355	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Flintibacter	
+ASV_357	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_359	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_360	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Limosilactobacillus	
+ASV_358	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_361	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_362	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_363	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_364	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_365	Bacteria	Firmicutes					
+ASV_366	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_367	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_368	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_369	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_370	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Limosilactobacillus	
+ASV_371	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Enterocloster	
+ASV_372	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_373	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_374	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_375	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_376	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_377	Bacteria						
+ASV_378	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_380	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_379	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_382	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae		
+ASV_381	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_383	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_384	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_385	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_386	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_387	Bacteria						
+ASV_388	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_389	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Parabacteroides	
+ASV_390	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_391	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_393	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_392	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae_1	Clostridium_sensu_stricto	
+ASV_394	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_395	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_396	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_397	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Flintibacter	
+ASV_398	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_399	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Neglecta	
+ASV_400	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	
+ASV_401	Bacteria						
+ASV_402	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_404	Bacteria						
+ASV_403	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Sutterellaceae	Parasutterella	
+ASV_405	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_406	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Parabacteroides	
+ASV_407	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_408	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_409	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Sutterellaceae	Parasutterella	
+ASV_410	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Romboutsia	
+ASV_411	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_413	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae		
+ASV_412	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_414	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	
+ASV_416	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_415	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_417	Bacteria						
+ASV_418	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_419	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Neglecta	
+ASV_420	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_421	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+ASV_422	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_424	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Limosilactobacillus	
+ASV_423	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Flintibacter	
+ASV_425	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_426	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_427	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Roseburia	
+ASV_428	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_429	Bacteria						
+ASV_430	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_432	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_431	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_433	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_434	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_436	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_435	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_437	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_438	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Faecalibaculum	
+ASV_439	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales			
+ASV_440	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_442	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_441	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_443	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_444	Bacteria	Firmicutes					
+ASV_445	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_446	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Atopobiaceae	Olsenella	
+ASV_447	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_448	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae		
+ASV_449	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Faecalibaculum	
+ASV_450	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Anaerotignum	
+ASV_451	Bacteria	Firmicutes					
+ASV_452	Bacteria						
+ASV_453	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_454	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Paludicola	
+ASV_455	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_456	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_457	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Parabacteroides	
+ASV_459	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae		
+ASV_458	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	
+ASV_460	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_461	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_462	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_463	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_464	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_465	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_466	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_467	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_468	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_469	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_470	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_471	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_472	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_473	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_474	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_475	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_476	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Anaerotignum	
+ASV_477	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_478	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Faecalibaculum	
+ASV_479	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_480	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_482	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_481	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_483	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_484	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_485	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Sutterellaceae	Parasutterella	
+ASV_486	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Faecalibaculum	
+ASV_487	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae		
+ASV_488	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_490	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_489	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_491	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_492	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_493	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_494	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_495	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_498	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_496	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_497	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_499	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_500	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_501	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_502	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_503	Bacteria	Firmicutes					
+ASV_505	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae		
+ASV_504	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_506	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_507	Bacteria	Firmicutes					
+ASV_508	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales			
+ASV_509	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_510	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_511	Bacteria	Actinobacteria	Coriobacteriia	Eggerthellales	Eggerthellaceae		
+ASV_512	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_514	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_513	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_515	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_516	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus	
+ASV_518	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_517	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_519	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_521	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_520	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_522	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_523	Bacteria						
+ASV_525	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_524	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_526	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_527	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_529	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_528	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_530	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_531	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_533	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_532	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Schaedlerella	
+ASV_534	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_535	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_536	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Parabacteroides	
+ASV_537	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	
+ASV_538	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_540	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales			
+ASV_539	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_541	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_542	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_543	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_544	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_545	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_546	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_547	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_550	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_548	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_549	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_551	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales			
+ASV_553	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_552	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_554	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_555	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_557	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae		
+ASV_556	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_558	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_559	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_560	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_561	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_562	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae		
+ASV_563	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_564	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales			
+ASV_566	Bacteria						
+ASV_565	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_567	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_568	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Clostridium_IV	
+ASV_570	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+ASV_569	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_571	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
+ASV_572	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae		
