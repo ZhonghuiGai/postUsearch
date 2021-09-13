@@ -15,7 +15,7 @@ data_7for_lefse <- function(group, genus, taxa){
   stopifnot(all(rownames(group) == rownames(genus)))
   dir.create("./data_for_lefse")
   write.table(group, file = "./data_for_lefse/group.txt", sep = "\t", col.names = F, row.names = F)
-  # step 2 prepare ASV and taxa files
+  # step 2 prepare ASV and taxa files-
   genus.t <- t(genus)  |> as.data.frame()
   stopifnot(all(rownames(taxa) == rownames(genus.t)))
   genus.t <- data.frame(OTUID = rownames(genus.t), genus.t)
